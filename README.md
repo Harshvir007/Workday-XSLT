@@ -1,5 +1,5 @@
 # Workday-XSLT
-This repository is for the tracking on workday xslt and workday integrations primary i would focus on the studio and other parts also
+This repository is for the tracking on workday xslt and workday integrations primarily i would focus on the studio and other parts also
 
 converting xml to xslt
 
