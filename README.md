@@ -7,4 +7,3 @@ we can convert any xml file to xslt by going to a website freeformatter.com
 
 xml and xslt is case sensitive that is if we change the case the transformation won't show
 
-for-each 
